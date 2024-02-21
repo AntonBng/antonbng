@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonbng&label=Profile%20views&color=0e75b6&style=flat" alt="antonbng" /> </p>
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me: antonbg321@gmail.com</h3>
 <p align="left">
 </p>
