@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning Python 
 
 - ⚡ Fun fact: Love sweets
+##
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me: antonbg321@gmail.com</h3>
