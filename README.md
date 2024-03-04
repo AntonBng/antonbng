@@ -1,8 +1,7 @@
 ### 👋Hello everyone, my name is Anton and I am a beginner Python programmer.
 
 ### badge
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow" />
-
+<img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange" /> <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue" /> <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonbng&label=Profile%20views&color=0e75b6&style=flat" alt="antonbng" /> </p>
 
 ##
